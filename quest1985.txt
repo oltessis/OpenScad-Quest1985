@@ -1,0 +1,126 @@
+
+quest 1985 is composed of four maps
+
+1. space, the intro sequence and teleportation
+2. the gambling board
+3. the sea cones
+      located just beneath the platform
+4. the platform
+
+1. 
+the scene breakdown:
+- blank space - 41 
+- star approaches - 14
+- fast spin - 12 
+- whiteflash-grow - 6
+- whiteflash contract - 2 
+- starspin - 7 
+- starbusts - 15 
+- starshrink - 9 
+- partial assembly - 12 
+- full assembly - 21/22 
+- hold quest - 30 
+- fade in a long rays journey into light - 80 
+- fade in game board - 14 
+- fade out quest - 40 
+
+2. 
+- zoom-in - 140 
+- normal-walk - 13
+- turn-in 8/9 
+- approach - 30 
+- final_approach - 10 
+- white_sphere - 6 
+- walk around - 25
+- turn in - 15 
+- approach - 27 
+- approach2 - 9
+- white flash - 6 
+- ring rotate - 18 
+- turn in - 10 
+- approach1 - 6 
+- approach2 - 26 
+- approach3 - 27
+- approach4 - 16 
+- approach front view - 35
+- 3d triagon rises - 6-7
+- board fades - 2 
+- rotate freely in space - 30 
+
+3. water scenes 
+- top view fall into water - 34 
+- pan down fall - 34 
+- float in water - 20 
+- transform to fish - 34 
+- fish swims away - 45 
+- fish spirals up - 45 
+- fish swims to the side - 60 
+- fins close 1 - 6 
+- fins open - 8 
+- fins close 2 - 3/4/8
+- spiral transform - 28 
+- spin backwards - 6 
+- spin upwards - 25/26 
+- spin up platform - 22 
+- get onto platform - 6/8 
+
+4. 
+- falls onto platform - 12 
+- transform - 20 
+- spin - 8 
+- spin side view - 22 
+- panoramic spin view - 63 
+- propellers drop panorama - 15 
+- propellers drop down - 20 
+- propellers fold up - 18 
+- propellers fold to the side - 8/9 
+- turn to bike - 20 
+- bike moves to the side - 15 
+- bike enters track - 30 
+- bike enters turn - 32 
+- bike travels down path - 23 
+- static side view - 28 
+- pan shot - 58 
+- zoom into bouncy castle - 68 
+- pause at bouncy castle - 21 
+
+5. temple scenes 
+- approach step straight - 8/10 
+- climb steps - 34 
+- turn around front - 15 
+- turn around back - 6 
+- enter lane 16/18 
+- bike down lane - 26 
+- bike down lane2 - 16 
+- transform - 13 
+- move with slinky - 18 
+- slink launches at glass - 12 
+- slinky bounces - 30 
+- pause - ~10 
+- slinky inquisitive - 30 
+- approach cube - 35 
+- slinky on inside - 9 
+- slinky on outside - 6/7 
+- curl up - 6 
+- straighten out - 3/4 
+- drop down - 6 
+- pause for triagon - 33 
+- zoom in - 60 
+- transform - 30 
+- approach1 - 16 
+- approach2 front-view - 26
+- approach3 top - 20 
+- transform hands - 11
+- approach - 20 
+- hands out - 8 
+- transformation head - 5/6 
+- transformation shoulder - 11 
+- transformation front - 14 
+- front triangle over head - 23 
+- background fade out - 36
+
+
+
+  
+
+
